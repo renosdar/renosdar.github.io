@@ -792,3 +792,15 @@ pre {
 .header14 .form-inline button {
   border-radius: 100px !important;
 }
+.cid-qrDaErzpQ4 {
+  background: #ffffff;
+}
+.cid-qrDaErzpQ4 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qrDaErzpQ4 .video-block {
+    width: 100% !important;
+  }
+}
