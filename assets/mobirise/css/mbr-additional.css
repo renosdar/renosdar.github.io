@@ -1785,6 +1785,12 @@ body {
 .cid-qtNVgSNArh .mbr-text {
   text-align: center;
 }
+.cid-qtNVgSNArh H2 {
+  color: #149dcc;
+}
+.cid-qtNVgSNArh SPAN {
+  color: #efefef;
+}
 .cid-qu3kbk5agp {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -2007,6 +2013,9 @@ body {
     padding-top: 2rem;
   }
 }
+.cid-qtNP1mN0NC B {
+  color: #149dcc;
+}
 .cid-qtNTXEY5NT {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2108,4 +2117,7 @@ body {
   .cid-qtNTXEY5NT .mbr-text {
     text-align: center !important;
   }
+}
+.cid-qtNTXEY5NT .foot-text B {
+  color: #149dcc;
 }
