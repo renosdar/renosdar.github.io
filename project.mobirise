@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-30_1839",
-    "currentPage": "webgr.html",
+    "currentPage": "123net.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "cookiesAlert": "Στο 123Net.gr χρησιμοποιούμε cookies για να διασφαλίσουμε την καλύτερη εμπειρία πλοήγησης.  <a href='privacy.html'>Θέλω να μάθω περισσότερα</a>."
   },
   "pages": {
-    "webgr.html": {
+    "123net.html": {
       "settings": {
         "main": true,
         "title": "Home",
