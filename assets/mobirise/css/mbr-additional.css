@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i);
 
 
 
@@ -27,7 +28,7 @@ body {
   font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -1797,7 +1798,7 @@ body {
   background-color: #0f7699;
 }
 .cid-qu3kbk5agp .mbr-section-subtitle {
-  color: #ffffff;
+  color: #efefef;
   font-weight: 300;
 }
 .cid-qu3kbk5agp .number-wrap {
@@ -1881,6 +1882,9 @@ body {
   }
 }
 .cid-qu3kbk5agp H2 {
+  color: #ffffff;
+}
+.cid-qu3kbk5agp .mbr-section-subtitle B {
   color: #ffffff;
 }
 .cid-qu33gDR0rH {
