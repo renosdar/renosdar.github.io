@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "123Net",
-    "currentPage": "sales.html",
+    "currentPage": "webgr.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -332,7 +332,7 @@
                 "title": "Έτσι απλά ...μετράς μέχρι το 3 και είσαι μέσα!!!",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Γιατί... εμείς με το τρία ...κάνουμε πράξη την επιχειρηματική σου ιδέα στο διαδίκτιο.<br>Κατασκευή ιστοσελίδων και eshop με μοναδικό και πρωτοποριακό σχεδιασμό από καινοτόμες ιδέες.",
+                "text": "Γιατί... εμείς με το τρία ...κάνουμε πράξη την επιχειρηματική σας ιδέα στο διαδίκτιο.<br>Κατασκευή ιστοσελίδων και eshop με μοναδικό και πρωτοποριακό σχεδιασμό από καινοτόμες ιδέες.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" href=\"webgr.html\" data-toolbar=\"-mbrBtnMove\">Μάθετε περισσότερα</a> ",
                 "overlayOpacity": "0.5"
               },
