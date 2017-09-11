@@ -321,7 +321,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/good-investor-better-deal-2000x1333.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
