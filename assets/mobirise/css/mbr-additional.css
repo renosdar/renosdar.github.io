@@ -4491,9 +4491,9 @@ body {
   }
 }
 .cid-qv7frTVouE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/recurly-coupons-unique-bulk-blogimage.gif");
 }
 @media (min-width: 992px) {
   .cid-qv7frTVouE .mbr-figure {
@@ -4509,6 +4509,13 @@ body {
   .cid-qv7frTVouE .mbr-text {
     text-align: center;
   }
+}
+.cid-qv7frTVouE H1 {
+  color: #073b4c;
+}
+.cid-qv7frTVouE .mbr-text,
+.cid-qv7frTVouE .mbr-section-btn {
+  color: #232323;
 }
 .cid-qv7fskj1TG {
   padding-top: 90px;
