@@ -4539,9 +4539,9 @@ body {
   }
 }
 .cid-qv7fsO7KBo {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/logo.gif");
 }
 @media (min-width: 992px) {
   .cid-qv7fsO7KBo .mbr-figure {
@@ -4557,6 +4557,13 @@ body {
   .cid-qv7fsO7KBo .mbr-text {
     text-align: center;
   }
+}
+.cid-qv7fsO7KBo H1 {
+  color: #073b4c;
+}
+.cid-qv7fsO7KBo .mbr-text,
+.cid-qv7fsO7KBo .mbr-section-btn {
+  color: #232323;
 }
 .cid-qv7fE1Rwq6 {
   padding-top: 90px;
