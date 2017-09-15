@@ -4357,15 +4357,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-qv7fPILlTH {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #232323;
-}
-.cid-qv7fPILlTH .mbr-text,
-.cid-qv7fPILlTH blockquote {
-  color: #767676;
-}
 .cid-quVqFNkZe8 .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -4735,7 +4726,7 @@ body {
   }
 }
 .cid-quWB1L4fzB {
-  padding-top: 45px;
+  padding-top: 120px;
   padding-bottom: 30px;
   background: linear-gradient(45deg, #073b4c, #073b4c);
 }
